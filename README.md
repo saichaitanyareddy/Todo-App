@@ -3,7 +3,7 @@
 ## Demo Of Todo App:
 https://github.com/user-attachments/assets/d8afde0b-7bb9-411a-bb88-f5c5b84dd4bc
 
-## Getting Start
+## Getting Started
 ```
 npm run dev
 ```
